@@ -46,7 +46,7 @@ For example:
 
 The main benefit of semantic markup is:
 
-- **Search Engine Optimization**: by allowing a browser to access and easily understand the contents of a webpage from a header, main body and/or content which is primarily used for SEO principles and practices.
+- **Search Engine Optimization**: by allowing a browser to access and easily understand the contents of a webpage from a header, main body and/or content which is primarily used for SEO principles and practices, assisting search engines to increase chances of a website's content to rank higher on the results page against the user's relevant keyword input.
 
 - **Accessibility**: enabling users with disabilities to access and interact with your a web page. By having meaning to an element/content, it is easier for users and developers to understand and interpret what each component functionality and representation.
 
@@ -107,15 +107,36 @@ https://www.alliedtelesis.com/us/en/documents/domain-name-system-feature-overvie
 
 #### TCP
 
+[Transmission Control Protocol (TCP)][] is a protocol designed to control the transferring of data using applications and devices to exchange forms of communication. TCP is a standardized procedure for information to be communicated because of features such as:
+
+- **Connection Management** - Initializes a connection between the sender and receiver a reliable, secure communication link.
+- **Reliability** - allows reliable peer to peer (P2P) transfers and retransmission to ensure data is transferred correctly.
+- **Flow Control** - Prevents overflow of data sent to a recipient at one time which is usually requested by the receiver to the sender.
+- **Congestion Control** - Similar to the Flow Control, it ensures the transfer of data from the sender does not overflow the servers of the receiver's network.
+
+This will allow reliable transferring of data communications such as emailing, texting, web browsing and file transfers between users.
+
+https://www.noction.com/blog/tcp-transmission-control-protocol-congestion-control#:~:text=The%20main%20TCP%20features%20are,for%20creating%20multiple%20virtual%20connections.
+
 https://www.fortinet.com/resources/cyberglossary/tcp-ip
 
+https://www.techtarget.com/searchnetworking/definition/TCP#:~:text=One%20of%20the%20main%20functions,browsing%20wouldn't%20be%20possible.
 
 #### HTTP and HTTPS
+
+[Hypertext Transfer Protocol (HTTP)][] is used as a form of communication on the internet by transferring unencrypted data between a web server to a web browser(client), and is operated above of the TCP layer. The main issue is due to the lack of encryption, data can be intercepted by a third-party.
+
+[Hypertext Transfer Protocol Secure (HTTPS)][] however differs. HTTPS is an extension to HTTP that allows secure encryption of data to be sent using Secure Sockets Layer (SSL) and Transport Layer Security (TLS). This is more commonly used now offering data integrity and security to transfer sensitive data such as credit card or other sensitive personal information between the client and the server.
+
+https://www.javatpoint.com/http-vs-https
 
 https://medium.com/@shahneel2409/http-and-https-protocol-features-a59db8dc4dc8
 
 ####  Web browsers
 
+[Web Browsers][] are mediums to access websites on the World Wide Web (WWW) using [protocols such as HTTP][]. Web browsers communicate by fetching data(request) from a web server and displays(renders) the web page in forms of media elements such as text, images and videos using CSS, Javascript, HTML, etc. It also provides integrated [developer tools][], allowing users to inspect and debug a web page, therefore making it possible to prevent errors and optimize performances. Google Chrome is the most commonly used browser followed by browsers such as Mozilla Firefox, Opera, Safari and more.
+
+https://www.linkedin.com/pulse/how-does-web-server-communicate-application-pixipace-cy5vc/
 
 https://www.geeksforgeeks.org/functions-and-features-of-a-web-browser/
 
@@ -196,7 +217,8 @@ https://www.computerscience.org/bootcamps/guides/javascript-uses/#:~:text=JavaSc
 
 
 ## References
-Q1. 
-**Markup Languages**: https://www.semrush.com/blog/markup-language/
-**Semantic Markup**: https://www.keyweo.com/en/seo/glossary/semantic-tag/#:~:text=These%20semantic%20tags%20structure%20and,and%20their%20positioning%20is%20improved.
+1. **Markup Languages**: https://www.semrush.com/blog/markup-language/
+2. **Semantic Markup**: https://www.keyweo.com/en/seo/glossary/semantic-tag/#:~:text=These%20semantic%20tags%20structure%20and,and%20their%20positioning%20is%20improved.
+3. 
+
 
