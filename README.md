@@ -394,13 +394,21 @@ Hard skills refers to skills learnt through education of hands-on experiences wh
 
 #### Software Developer
 
+Software developers are found in almost every industry that as technology is always evolving and used for everyday tasks. They generally utlize a range of tools and specialize in creating and designing software and/or applications by using different programming language codes such as Python, JavaScript, C++ and more. This can include maintaining the functionality of networks and devices through code and often engage with clients to understand the requirements and processes behind them *(devry.edu, n.d.)*. 
+
 #### Project Manager
+
+They provide leadership and technical expertise to their team of software developers, overseeing the development process of a project *(Ovcharenko, 2022)*. During the development process, project managers manage their team and assist them to design, execute, monitor and complete the work required to ensure satisfactory results for their clients. Some skills required for this position may include *(Motiso, n.d.)*:
+
+- **Organisational Skills** - Builds a detailed plan outlining for projects which may include budgeting, personnel and resources to prevent any risks and potential problems.
+- **Relationship Management** - whether through clients or their own team, they are able to either provide viable feedback, communicate goals and resolving conflict.
 
 #### UI/UX Designer
 
+UI/UX Designer (User Interface/User Experience) are responsible for designing the accessibility of a user's interface and experience on applications, software, website or device that a person interacts with *(Coursera, n.d.)*. Their tasks involves gathering data and conducting research *(Coursera, 2023)* on how a user will interact with their product whether it is the visual interface of a website menu or graphical layout. By doing so, they are able to design and create wireframes to demonstrate how their product will function visually and methodically or to improve on an existing product to further enhance a user's experience. 
+
 #### Full-Stack Developer
 
-
-https://alcor-bpo.com/10-key-roles-in-a-software-development-team-who-is-responsible-for-what/
+A Full-Stack Developer is defined by developers that have expertise in both Front-End and Back-End development *(SEEK, n.d.)*. Generally referred to as Web Developers, but their skills can be applied for other types of software development as they are proficient in most programming languages. Front-End development works on user interfaces of any website and/or application that a client or viewer can see and interact with using languages such as HTML, CSS and JavaScript. While Back-End Development refers to the server-side and databases of a website and/or application that is generally never touched by the end-user *(SEEK, n.d.)* using program languages such as Python, Java and Ruby.
 
 ## References
