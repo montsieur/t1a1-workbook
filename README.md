@@ -353,8 +353,23 @@ https://apiumhub.com/tech-blog-barcelona/chatgpt-for-developers/
 ## Q10
 ### Explain the legal and ethical impacts of the usage of language-learning model technologies (such as ChatGPT) in written and technical works, such as reports and software projects.	
 
-https://www.scribbr.com/ai-tools/chatgpt-ethics/
-https://www.scribbr.com/ai-tools/legal-implications-chatgpt/
+#### Legal Impacts
+
+The main controversies in not just software development is plagarism and copyright as it stitches pieces of information learned from various internet sources, potentially infringing on intellectual property rights of third parties *(Ryan, 2023b)*. 
+
+Another implication that will cause issues is the concern of data privacy and regulation. Because ChatGPT stores conversations as data in it's server's, it may lead to potential legal impacts if a user inputs confidential and/or sensitive information *(Ryan, 2023b)* which is later produced by the tool to another user. Even though user's are able to disable the chat history feature and request logs to be deleted, it is pointed out that deleting a chat does not erase information from the server as information *(O’Flaherty, n.d.)* received by ChatGPT goes through multiple forms of manipulation making it harder to erase.
+
+Lastly, although ChatGPT does help improve a developer's quality of life, if the developer cannot comprehend the output sent by ChatGPT, it may lead to a degree of misunderstandings and errors whilst responses could also potentially contain discriminatory or inaccurate information, ultimately resulting in reputational damages *(Ryan, 2023b)*.
+
+#### Ethical Impacts
+
+Ethically, ChatGPT has issues alongside with the legal impacts that can result to implications such as:
+- Biased and inaccurate information
+- Privacy Violations
+- Plagarism
+- Copyright Infringements
+
+ChatGPT does not have the capabilities to provide citations for it's sources *(Ryan, 2023a)*. Since it is trained through various sources, multiple accounts of information may contain biases by a user resulting in false or inaccurate information to be outputted by the tool, ruining it's credibility. One main unethical practices with ChatGPT involves user's to generate content and information and passing it off as their own. Even though ChatGPT uses the methods of paraphrasing and modification to sources of information, it is not completely free of plagarism as it fails to use any citations in it's documentation *Perkins, 2023*. But there has been debates of using ChatGPT to elevate academic writing as long as a student or user are transparent with the use of tools such as ChatGPT *(Perkins, 2023)*.
 
 ## Q11
 ### Explain multiple skills from each of the categories below, and how they’re useful to a software development workplace.
