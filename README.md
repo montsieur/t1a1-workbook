@@ -267,40 +267,59 @@ JavaScript is a widely used programming languaged primarly for it's versatility 
 
 Dear Alex,
 
-I hope this message finds you well and thank you for expressing your interest in developing a website for the Super Awesome Museum (SAM). I'm excited about the opportunity to assist and work with you to bring your visions to life.
+I hope this message finds you well, and thank you for expressing your interest in developing a website for the Super Awesome Museum (SAM). I'm excited about the opportunity to assist and work with you to bring your visions to life.
 
-From my understanding based on your request, the website will primarily be used to promote the museum effectively by offering essential information for visitors the location of the museum and highlighting SAM's diverse collection of exhibits. 
+From my understanding based on your request, the website will primarily be used to promote the museum effectively by offering essential information for visitors about the location of the museum and highlighting SAM's diverse collection of exhibits.
 
-To ensure we are on the right track, what will be the SAM's main attraction and/or theme you would like to promote and what is SAM's intended audience? This way, we can create a roadmap of ideas to effectively produce the website visually at a marketing stand point of view.
+To ensure we are on the right track, what will be the SAM's main attraction and/or theme you would like to promote, and what is SAM's intended audience? This way, we can create a roadmap of ideas to effectively produce the website visually from a marketing point of view.
 
 For the technical aspects of the website, I can certainly handle the entire process of building a website. This is a brief outline of what we can provide based on the information given:
 
 1. **Home page**
-We can create a visually appealing homepage that showcases featured exhibits and artifacts prominently to increase user engagement and creates a good first impression.
+We can create a visually appealing homepage that showcases featured exhibits and artefacts prominently to increase user engagement and create a good first impression to potential visitors.
 
-2. **Visitor Information Page** - 
-This will show clear navigation and information on how to reach SAM's address, including maps, directions and parking details if applicable. This will ensure visitors can easily plan their trip to visit SAM.
+2. **Visitor Information Page**
+This will show clear navigation and information on how to reach SAM's address, including maps, directions, and parking details if applicable. This will ensure visitors can easily plan their trip to visit SAM.
 
-3. **Contact and Interaction Page** - 
-This is the contact page showing the museum's contact details such as phone numbers and/or emails. This may include elements such as forms for visitors or potential visitors to send in their enquiries or feedback if you prefer this feature to be included.
+3. **Contact and Interaction Page**
+This is the contact page showing the museum's contact details, such as phone numbers and/or emails. This may include elements such as forms for visitors or potential visitors to send in their enquiries or feedback if you prefer this feature to be included.
 
-To ensure this website is accessible to everyone, we will ensure to create a responsive website design that will be compatiable with all devices whether it is a computer, laptop or mobile phone. In addition, we will create the website to implement the best search engine optimization practices to ensure user's are able to easily and visibily search SAM's website on browsers such as Google.
+To ensure this website is accessible to everyone, we will create a responsive website design that will be compatible with all devices, whether it is a computer, laptop, or mobile phone. In addition, we will create the website to implement the best search engine optimisation practices to ensure users are able to easily and visibly search SAM's website on browsers such as Google.
 
 I'd love to schedule a meeting to discuss your project in more detail and answer any questions you may have. Please let me know your availability, and we can set up a time that works for you.
 
-I look forward to your response and the opportunity to collaborate on this exciting project and thank you for considering me for your website project.
+I look forward to your response and the opportunity to collaborate on this exciting project, and thank you for considering me for your website project.
 
 Kind regards,
 
-Van Nguyen
-Web Developer
-+61 400 000 000
-www.portfolio.com
+Van Nguyen, Web Developer<br>
++61 400 000 000<br>
+www.portfolio.com<br>
 
 ## Q7
 #### Think back to a scenario or situation in your own software development projects or work. Explain how you would do things differently if you had a chance to go through that scenario again, using an appropriate reflective cycle or reflection technique.
 
+My only experience in a software engineering, was creating my first website portfolio at Coder Academy which was a very fun and educational project for someone like me who had no prior experience with web development whatsoever. What I would be reflecting specifically to this project would be the implementation and execution of visuals elements such as the use of images and semantic tags which is also a form of visual communication.
 
+##### Description
+
+When I was planning my website visually, I knew I wanted to implement minimilism to my website so it's not too busy and overwhelming to a viewer's perspective. With a layout in mind after creating a wireframe, I spent many hours experimenting between CSS Flexbox and CSS Grid adding in visual elements such as a header, navigation, footer, text and imagery ensuring they wrapped the way I wanted to. Although I was unsuccessful after many attempts, I had to rethink my layout to ensure I'm able to execute it within my level of skill. In the end, even though it was not the layout I initially had in mind, I was able to produce a website that I have planned and executed gaining many experiences along the way.
+
+##### Feeling
+
+I attempted this project with a lot of optimism and positivity feeling I could do well at the beginning. However, after many failures, I had started to feel stressed and frustrated for not being able to get it correctly no matter how hard I try. It will escalate further when I had received a feeling of success after the completion of one element of the website and it will later break when working on the next element not long after. There was a lot of perseverance involved and after taking multiple breaks, I had to collect myself and rethink how I would approach the project and still produce a website that I am still satisfied with.
+
+##### Evaluation
+
+The positives I can take this project is having the ability to complete it. The moment I was able to go past the hurdle stopping me from progressing, it was a lot more smoother for the remaining of the project. Although I had taken a few shortcuts and because of that, the results wasn't exactly what I had initially planned and it was also not the correct way of executing which led to the project being evaluated lower than I would've hoped for such as using the wrong semantics for my navigation bar for my header. Additionally I was careless when submitting, seeing that some of my image elements were not visible from another's perspective but overall, I am still proud of myself for completing it.
+
+##### Conclusion
+
+From the experiences I've taken from this, it helped me understand what it's like to work on projects like this as this will be the norm once I enter the industry myself. With more research and practice, I will be able to attempt and complete a project like this with more confidence and speed. Although, I believe I would have been able to generate better results if I had better time management and control to research more rather than panicking and resorting to shortcuts. I may have not gotten the full satisfaction or result I wanted, but after reflecting, I now believe that failure is a normal and necessary step to learn and succeed. 
+
+##### Action
+
+If I had the chance to work on a similar project or create a portfolio website again, I would ensure to use all the resources available to me whether that will be through the internet or reach out to those nearest to me such as my lecturers. I will resort to better planning and learning more knowledge to be more efficient and optimise my time and methods to implement features I was not able to do before. In addition to further improving by learning JavaScript to add more interactive elements to my website.
 
 ## Q8
 #### A large part of career growth as an information technology professional happens through networking and workshops, often found at online or in-person events or workshops. Create an action plan that identifies several relevant networking opportunities for you to participate in or attend, and add some information about what you expect to gain or grow through each item in the action plan.
@@ -358,3 +377,4 @@ https://alcor-bpo.com/10-key-roles-in-a-software-development-team-who-is-respons
 20. **Interpreters vs Compilers**: https://builtin.com/software-engineering-perspectives/compiler-vs-interpreter#:~:text=A%20compiler%20translates%20code%20written,when%20the%20program%20is%20running.
 21. **Python**: https://serokell.io/blog/python-pros-and-cons
 22. **JavaScript**: https://ellow.io/advantages-and-disadvantages-of-javascript/
+23. **Gibbs Reflective Cycle**: https://www.mindtools.com/ano9qiu/gibbs-reflective-cycle
