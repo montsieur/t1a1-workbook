@@ -5,7 +5,7 @@
 
 #### What is a 'Markup' Language?
 
-[**Markup languages**][1] is a set of instructions and rules that defines how content is laid out, presented and structured on a web page. This will control over elements on a user's page depending on how it is structured, formatting and how each element is specific and displayed or rendered on a specific web page. 
+[**Markup languages**][1] is a set of instructions and rules that defines how content is laid out, presented and structured on a web page. This will control over elements on a user's page depending on how it is structured, formatting and how each element is specific and displayed or rendered on a specific web page *(Varagouli, 2021)*. 
 
 It is essential as it provides a standardized way to define elements, making it easier for computers and software applications to interpret and display correctly.
 
@@ -42,7 +42,7 @@ For example:
 `<a href="https://www.thisisalink.com>Link</a>`
 >This is an example of an attribute. `<a> </a>` is the tag and encased within it is the name of the link which is the hyperlink, pairing to = the value/target.
 
-3. [**Semantic Markup**][2] - Used primarily within HTML, semantic markup is used to provide meanings to the content to improve accessibility and search engine optimization(SEO). It helps indicate and clearly describes the meaning of each element to both the browser and a developer. 
+3. [**Semantic Markup**][2] *(keyweo, n.d.)* - Used primarily within HTML, semantic markup is used to provide meanings to the content to improve accessibility and search engine optimization(SEO). It helps indicate and clearly describes the meaning of each element to both the browser and a developer. 
 
 The main benefit of semantic markup is:
 
@@ -76,7 +76,7 @@ Example of Semantics:
 
 #### Packets
 
-[**Packets**][3] basic units of data and is a term used to describe small segments of a larger message in networking. The main feature of a packet is to send data over to a computer network such as the internet, by dividing/partitioning them into 'packets' and then recompiled by a computer or device that receives it. This method used is called [**Packet Switching**][4] which refers breaking down data, sending packets through multiple networks to it's final destination. The main benefit of this is this allows the ability to exchange and send packets to multiple computers at the same time over the internet faster and more efficiently.
+[**Packets**][3] basic units of data and is a term used to describe small segments of a larger message in networking *(Cloudflare, n.d.)*. The main feature of a packet is to send data over to a computer network such as the internet, by dividing/partitioning them into 'packets' and then recompiled by a computer or device that receives it. This method used is called [**Packet Switching**][4] which refers breaking down data, sending packets through multiple networks to it's final destination. The main benefit of this is this allows the ability to exchange and send packets to multiple computers *(Avi Networks, n.d.)* at the same time over the internet faster and more efficiently.
 
 [3]: https://www.cloudflare.com/en-au/learning/network-layer/what-is-a-packet/ "Packets"
 
@@ -84,14 +84,14 @@ Example of Semantics:
 
 #### IP Addresses
 
-An [**Internet Protocol (IP)**][5] refers to a unique identification number assigned to all devices connected to the internet. There are two different types of IP addresses:
+An [**Internet Protocol (IP)**][5] refers to a unique identification number *(Fortinet, 2024)* assigned to all devices connected to the internet. There are two different types of IP addresses:
 
-- [**IPv4 (version 4)**][6] - is a protocol for use on packet-switched Link Layer networks introduced in 1981 by DARPA. It is used to identify and route data packets between devices on a network consisting of a network address and the host address. IPv4 are 32-bit integers represented by 4 numbers seperated by dots (.) in a range of 0-255 and is capable of 4.3 billion addresses.
+- [**IPv4 (version 4)**][6] - is a protocol for use on packet-switched Link Layer networks introduced in 1981 by DARPA *(www.linksys.com, n.d.)*. It is used to identify and route data packets between devices on a network consisting of a network address and the host address. IPv4 are 32-bit integers represented by 4 numbers seperated by dots (.) in a range of 0-255 and is capable of 4.3 billion addresses *(B, 2019)*.
 
 Below is an example of IP address generated for IPv4:
 >189.123.123.90. 
 
-- [**IPv6 (version 6)**][7] - is a protocol introduced in 1995 by Internet Engineering Task Force as the number of IPv4 addresses were exhausted. It is an improvement compared to IPv4 allowing complexity and efficiency through the enhancement of security by providing encryption, authenticity and reliability whilst being capable of having an infinite number of addresses. It is also provided better support for Mobile Devices, allowing faster and safer connecting between mobile devices than IPv4. IPv6 are 128-bits written as a group of 8 hexadecimal numbers separated by colon ( : ).
+- [**IPv6 (version 6)**][7] - is a protocol introduced in 1995 by Internet Engineering Task Force as the number of IPv4 addresses were exhausted. It is an improvement compared to IPv4 allowing complexity and efficiency through the enhancement of security by providing encryption, authenticity and reliability whilst being capable of having an infinite number of addresses. It is also provided better support for Mobile Devices, allowing faster and safer connecting between mobile devices than IPv4. IPv6 are 128-bits written as a group of 8 hexadecimal numbers separated by colon ( : ) *(B, 2019)*.
 
 Below is an example of IP address generated for IPv6:
 >fe80::d4a8:6435:d2d8:d9f3b11
@@ -104,7 +104,7 @@ Below is an example of IP address generated for IPv6:
 
 #### Routers and Routing
 
-A [**router**][8] is a network device(s) that connects multiple computer networks together either through a local network or over the internet by directing and managing data packets between them through a cable or wirelessly (Wi-Fi) using TCP/IP models. As networks become increasingly complex, the potential routes between destinations also grow extensively.
+A [**router**][8] is a network device(s) that connects multiple computer networks together either through a local network *(Testbook, n.d.)* or over the internet by directing and managing data packets between them through a cable or wirelessly (Wi-Fi) using TCP/IP models. As networks become increasingly complex, the potential routes between destinations also grow extensively.
 
 [**Routing**][9] will provide security features such as firewalls, performs tasks to share from a single public IP address to multiple devices on a network and manages data traffic and enables the network to maximise its capacity and minimise congestion efficiently using various metrics such as:
 - **Hop count** - specifies number of passes through devices such as a router, allowing a packet to move through the source.
@@ -112,6 +112,7 @@ A [**router**][8] is a network device(s) that connects multiple computer network
 - **Bandwidth** - this measures the capacity of the link between a router and a device. The higher the bandwidth, the stronger the link is between devices.
 - **Load** - refers to the amount of resources/packets being passed through a network. Similar to a CPU, the more packets processed, the traffic load value will also increase that could affect the performance of the network.
 - **Reliability** - measured depending on the link between devices and networks dynamically as a network can fail having downtime or may take longer to repair the link.
+*(www.javatpoint.com, n.d.)*
 
 [8]: https://testbook.com/articles/router#:~:text=Routers%20are%20vital%20networking%20devices,load%20balancing%2C%20and%20failover%20support. "Routers"
 
@@ -119,9 +120,9 @@ A [**router**][8] is a network device(s) that connects multiple computer network
 
 ####  Domains and DNS
 
-[**Domains**][10] are web addresses consisting of a protrol, domain name and path. By giving a domain a unique [**Domain Name System (DNS)**][11], it functions as a home address allowing users to enter words into their browsers to access a website or a page from a website which is normally associated by a string of text with a numerical IP Address that connects from a device to web servers, allowing ease of accessibility for users such as for example; https://www.google.com. 
+[**Domains**][10] are web addresses consisting of a protrol, domain name and path. By giving a domain a unique [**Domain Name System (DNS)**][11], it functions as a home address allowing users to enter words into their browsers *(Allied Telesis, n.d.)* to access a website or a page from a website which is normally associated by a string of text with a numerical IP Address *(Fitzgerald, 2022)* that connects from a device to web servers, allowing ease of accessibility for users such as for example; https://www.google.com. 
 
-Taking the example of Google, a domain name is typically broken down into two parts. The first being the Second-Level Domain (SLD) which comes before the extension correlating to the entity/name of a business and/or identity which is 'Google' and Top-Level Domain (TLD) which refers to the to extension of the website which is '.com'.
+Taking the example of Google, a domain name is typically broken down into two parts. The first being the Second-Level Domain (SLD) which comes before the extension correlating to the entity/name of a business and/or identity which is 'Google' and Top-Level Domain (TLD) which refers to the to extension of the website which is '.com'. *(Fitzgerald, 2022)*
 
 [10]: https://blog.hubspot.com/website/what-is-a-domain "Domains"
 
@@ -144,16 +145,17 @@ Taking the example of Google, a domain name is typically broken down into two pa
 - **Reliability** - allows reliable peer to peer (P2P) transfers and retransmission to ensure data is transferred correctly.
 - **Flow Control** - Prevents overflow of data sent to a recipient at one time which is usually requested by the receiver to the sender.
 - **Congestion Control** - Similar to the Flow Control, it ensures the transfer of data from the sender does not overflow the servers of the receiver's network.
+*(Fortinet, 2021)*
 
-This will allow reliable transferring of data communications such as emailing, texting, web browsing and file transfers between users.
+This will allow reliable transferring of data communications such as emailing, texting, web browsing and file transfers between users *(Networking, n.d.)*.
 
 [12]: https://www.noction.com/blog/tcp-transmission-control-protocol-congestion-control#:~:text=The%20main%20TCP%20features%20are,for%20creating%20multiple%20virtual%20connections. "TCP"
 
 #### HTTP and HTTPS
 
-[Hypertext Transfer Protocol (HTTP)][13] is used as a form of communication on the internet by transferring unencrypted data between a web server to a web browser(client), and is operated above of the TCP layer. The main issue is due to the lack of encryption, data can be intercepted by a third-party.
+[Hypertext Transfer Protocol (HTTP)][13] is used as a form of communication on the internet by transferring unencrypted data between a web server to a web browser(client) *(www.javatpoint.com, n.d.)*, and is operated above of the TCP layer. The main issue is due to the lack of encryption, data can be intercepted by a third-party.
 
-[Hypertext Transfer Protocol Secure (HTTPS)][14] however differs. HTTPS is an extension to HTTP that allows secure encryption of data to be sent using Secure Sockets Layer (SSL) and Transport Layer Security (TLS). This is more commonly used now offering data integrity and security to transfer sensitive data such as credit card or other sensitive personal information between the client and the server.
+[Hypertext Transfer Protocol Secure (HTTPS)][14] however differs. HTTPS is an extension to HTTP that allows secure encryption of data to be sent using Secure Sockets Layer (SSL) and Transport Layer Security (TLS) *(Shah, 2023)*. This is more commonly used now offering data integrity and security to transfer sensitive data such as credit card or other sensitive personal information between the client and the server.
 
 [13]: https://www.javatpoint.com/http-vs-https "HTTP"
 
@@ -161,7 +163,7 @@ This will allow reliable transferring of data communications such as emailing, t
 
 ####  Web browsers
 
-[Web Browsers][15] are applications to access websites on the World Wide Web (WWW) using [protocols such as HTTP][16]. Web browsers communicate by fetching data(request) from a web server and displays(renders) the web page in forms of media elements such as text, images and videos using CSS, Javascript, HTML and more to a user's display. It also provides integrated [developer tools][17], allowing users to inspect and debug a web page, therefore making it possible to prevent errors and optimize performance of a web browser and/or web page. Google Chrome is the most commonly used browser followed by browsers such as Mozilla Firefox, Opera, Safari and more.
+[Web Browsers][15] are applications to access websites on the World Wide Web (WWW) *(www.linkedin.com, n.d.)* using [protocols such as HTTP][16] *(GeeksforGeeks, 2023)*. Web browsers communicate by fetching data(request) from a web server and displays(renders) the web page in forms of media elements such as text, images and videos using CSS, Javascript, HTML and more to a user's display. It also provides integrated [developer tools][17] *(developer.mozilla.org, n.d.)*, allowing users to inspect and debug a web page, therefore making it possible to prevent errors and optimize performance of a web browser and/or web page. Google Chrome is the most commonly used browser followed by browsers such as Mozilla Firefox, Opera, Safari and more.
 
 [15]: https://www.linkedin.com/pulse/how-does-web-server-communicate-application-pixipace-cy5vc/ "Web Browsers"
 
@@ -174,7 +176,7 @@ This will allow reliable transferring of data communications such as emailing, t
 
 #### Interpreters
 
-An [**interpreter**][18] is a program that directly executes the instructions in a high-level programming language without having to convert it to machine code. 
+An [**interpreter**][18] is a program that directly executes the instructions in a high-level programming language without having to convert it to machine code *(Toppr-guides, 2021)*. 
 
 The difference with interpreters are:
 - Executes a source of code directly one line at a time and will come to a halt if any error occurs with each statement, allowing an easier debugging process during compilation.
@@ -183,7 +185,7 @@ The difference with interpreters are:
 
 #### Compilers
 
-A [**compiler**][19] reads an entire source code in one go and generates machine code for later execution by a computer's processor by converting human-readable code into instructions that a computer can understand and execute.
+A [**compiler**][19] reads an entire source code in one go and generates machine code for later execution by a computer's processor by converting human-readable code into instructions that a computer can understand and execute *(Built In, n.d.)*.
 
 The difference with compilers are:
 - Executes a source of code at one time, therefore shows all errors altogether resulting in debugging processes more difficult after compiling.
@@ -201,7 +203,7 @@ The two most commonly used programming languages are [**Python**][21] and [**Jav
 
 #### Python
 
-Python is interpreted as a high-level programming language and one of the most popular forms of coding languages due to it's versatlity and user-friendly approach.
+Python is interpreted as a high-level programming language and one of the most popular forms of coding languages due to it's versatlity and user-friendly approach *(Gavrilova, 2023)*.
 
 ##### Benefits
 
@@ -210,6 +212,7 @@ Python is interpreted as a high-level programming language and one of the most p
 - **Community and Resources** - widely supported by the community that contributes to sharing many open-sourced libraries, forums, social media groups and frameworks. This is beneficial for those learning the language as they are able to gain knowledge and feedback from other developers.
 - **Flexibility** - it's flexibility comes from having the ability to be integrated with other programming languages such as C++ and Java depending on the specific tasks needed for a project.
 - **Prototype Friendly** - Being able to run and test a line(s) of code in real-time efficiently improve the debugging processes, improve or refine their source code.
+
 
 ##### Drawbacks
 
@@ -221,7 +224,7 @@ Python is interpreted as a high-level programming language and one of the most p
 
 #### JavaScript
 
-JavaScript is a widely used programming languaged primarly for it's versatility in creating interactive elements within a website alongside with markup languages such as HTML and style languages such as CSS (Cascading Style Sheets).
+JavaScript is a widely used programming languaged primarly for it's versatility in creating interactive elements *(Anon, 2024)* within a website alongside with markup languages such as HTML and style languages such as CSS (Cascading Style Sheets).
 
 ##### Benefits
 
@@ -301,6 +304,8 @@ www.portfolio.com<br>
 
 My only experience in a software engineering, was creating my first website portfolio at Coder Academy which was a very fun and educational project for someone like me who had no prior experience with web development whatsoever. What I would be reflecting specifically to this project would be the implementation and execution of visuals elements such as the use of images and semantic tags which is also a form of visual communication.
 
+>*Gibbs Reflective Cycle (Mind Tools Content Team, 2022)*
+
 #### Description
 
 When I was planning my website visually, I knew I wanted to implement minimilism to my website so it's not too busy and overwhelming to a viewer's perspective. With a layout in mind after creating a wireframe, I spent many hours experimenting between CSS Flexbox and CSS Grid adding in visual elements such as a header, navigation, footer, text and imagery ensuring they wrapped the way I wanted to. Although I was unsuccessful after many attempts, I had to rethink my layout to ensure I'm able to execute it within my level of skill. In the end, even though it was not the layout I initially had in mind, I was able to produce a website that I have planned and executed gaining many experiences along the way.
@@ -320,6 +325,7 @@ From the experiences I've taken from this, it helped me understand what it's lik
 #### Action
 
 If I had the chance to work on a similar project or create a portfolio website again, I would ensure to use all the resources available to me whether that will be through the internet or reach out to those nearest to me such as my lecturers. I will resort to better planning and learning more knowledge to be more efficient and optimise my time and methods to implement features I was not able to do before. In addition to further improving by learning JavaScript to add more interactive elements to my website.
+
 
 ## Q8
 ### A large part of career growth as an information technology professional happens through networking and workshops, often found at online or in-person events or workshops. Create an action plan that identifies several relevant networking opportunities for you to participate in or attend, and add some information about what you expect to gain or grow through each item in the action plan.
@@ -341,9 +347,9 @@ With this in mind, I plan to allocate my time to this action plan within the nex
 ## Q9
 ### Explain the uses of language-learning model technologies (such as ChatGPT) on written and technical works, such as reports and software projects.	
 
-[ChatGPT][24] is a free Language-Learning Model technology using artificial intelligence(AI), used to respond to user's queries with comprehensive, human-like responses. It uses deep learning techniques to process text and generate text prompts based on the patterns it learns and has received within it's network whilst easily adapting to a user's feedback when interacting.
+[ChatGPT][24] is a free Language-Learning Model technology using artificial intelligence(AI), used to respond to user's queries with comprehensive, human-like responses. It uses deep learning techniques to process text and generate text prompts based on the patterns it learns and has received within it's network whilst easily adapting to a user's feedback when interacting *(Kanade, 2023)*.
 
-In software development, it can be used a tool to help improve a developer's quality of life. The quality of life for a software developer is increased dramatically as it is a tool to help produce repetitive sources of code on their behalf, generate comprehensive documentation of code, simplifies the code, translate software interfaces, debugging extensive lines of codes quickly and have the ability to understand logic and structure. Overall, this improves efficiency, accuracy and performance. Because this is so accessible to the public, it is usable by user's who also have no prior knowledge looking to learn from this OpenAI learning model.
+In software development, it can be used a tool to help improve a developer's quality of life. The quality of life for a software developer is increased dramatically as it is a tool to help produce repetitive sources of code on their behalf, generate comprehensive documentation of code, simplifies the code, translate software interfaces, debugging extensive lines of codes quickly and have the ability to understand logic and structure *(GAMAGE, 2023)*. Overall, this improves efficiency, accuracy and performance. Because this is so accessible to the public, it is usable by user's who also have no prior knowledge looking to learn from this OpenAI learning model.
 
 Although ChatGPT does improve a developer's quality of life, it still requires a level of human comprehension by the developer to understand the prompts and results given by ChatGPT. As it is not perfect, there will still be a degree of errors and lack of explanation which may not benefit a developer.
 
@@ -442,6 +448,8 @@ Fitzgerald, A. (2022). The Plain-English Guide to Domains & Domain Names. [onlin
 Fortinet (2021). What is TCP/IP and How does it work? [online] Fortinet. Available at: https://www.fortinet.com/resources/cyberglossary/tcp-ip.
 
 Fortinet (2024). What is an IP Address? How it works? How to Locate it? [online] Fortinet. Available at: https://www.fortinet.com/resources/cyberglossary/what-is-ip-address#:~:text=An%20Internet%20Protocol%20(IP)%20address.
+
+GAMAGE, D. (2023). 7 Ways ChatGPT Can Help Developers | .cult by Honeypot. [online] cult.honeypot.io. Available at: https://cult.honeypot.io/reads/how-can-chatgpt-help-developers/.
 
 Gavrilova, Y. (2023). Pros and Cons of Python. [online] Pros and Cons of Python. Available at: https://serokell.io/blog/python-pros-and-cons.
 
