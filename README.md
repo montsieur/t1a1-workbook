@@ -412,3 +412,83 @@ UI/UX Designer (User Interface/User Experience) are responsible for designing th
 A Full-Stack Developer is defined by developers that have expertise in both Front-End and Back-End development *(SEEK, n.d.)*. Generally referred to as Web Developers, but their skills can be applied for other types of software development as they are proficient in most programming languages. Front-End development works on user interfaces of any website and/or application that a client or viewer can see and interact with using languages such as HTML, CSS and JavaScript. While Back-End Development refers to the server-side and databases of a website and/or application that is generally never touched by the end-user *(SEEK, n.d.)* using program languages such as Python, Java and Ruby.
 
 ## References
+
+Allied Telesis. (n.d.). Domain Name System (DNS) Feature Overview and Configuration Guide. [online] Available at: https://www.alliedtelesis.com/us/en/documents/domain-name-system-feature-overview-and-configuration-guide#:~:text=DNS%20translates%20meaningful%20domain%20names.
+
+Anon, (2024). Advantages and Disadvantages of Javascript - ellow.io. [online] Available at: https://ellow.io/advantages-and-disadvantages-of-javascript/.
+
+Avi Networks (n.d.). What is Packet Switching? Definition & FAQs. [online] Avi Networks. Available at: https://avinetworks.com/glossary/packet-switching/#:~:text=Packet%20switching%20is%20the%20transfer.
+
+B, S. (2019). Differences between IPv4 and IPv6 - GeeksforGeeks. [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/differences-between-ipv4-and-ipv6/.
+
+Built In. (n.d.). Compiler vs. Interpreter in Programming. [online] Available at: https://builtin.com/software-engineering-perspectives/compiler-vs-interpreter#:~:text=A%20compiler%20translates%20code%20written [Accessed 23 Jun. 2024].
+
+Cloudflare. (n.d.). What is a packet? | Network packet definition. [online] Available at: https://www.cloudflare.com/en-au/learning/network-layer/what-is-a-packet/.
+
+Codemotion (2023). Trending Hard Skills and Soft Skills In Software Development. [online] Codemotion Magazine. Available at: https://www.codemotion.com/magazine/it-careers/trending-hard-skills-and-soft-skills-in-software-development/.
+
+Coursera (2023). What Does a UX Designer Do? [Updated 2021]. [online] Coursera. Available at: https://www.coursera.org/articles/what-does-a-ux-designer-do.
+
+Coursera. (n.d.). What Is a User Interface (UI) Designer? [Updated 2022]. [online] Available at: https://www.coursera.org/articles/what-is-a-user-interface-ui-designer-guide.
+
+developer.mozilla.org. (n.d.). Developer Tools - MDN Web Docs Glossary: Definitions of Web-related terms | MDN. [online] Available at: https://developer.mozilla.org/en-US/docs/Glossary/Developer_Tools.
+
+devry.edu. (n.d.). What Does a Software Developer Do | DeVry University. [online] Available at: https://www.devry.edu/blog/what-does-a-software-developer-do.html#:~:text=interact%20with%20computers.-.
+
+Eilers, C. (2023). Software Engineering: Hard vs. Soft Skills - ALX Africa. [online] www.alxafrica.com. Available at: https://www.alxafrica.com/software-engineering-hard-vs-soft-skills/#:~:text=Hard%20skills%20software%20engineers%20learn%20include%3A%20programming%20languages%20like%20Python [Accessed 23 Jun. 2024].
+
+Fitzgerald, A. (2022). The Plain-English Guide to Domains & Domain Names. [online] blog.hubspot.com. Available at: https://blog.hubspot.com/website/what-is-a-domain.
+
+Fortinet (2021). What is TCP/IP and How does it work? [online] Fortinet. Available at: https://www.fortinet.com/resources/cyberglossary/tcp-ip.
+
+Fortinet (2024). What is an IP Address? How it works? How to Locate it? [online] Fortinet. Available at: https://www.fortinet.com/resources/cyberglossary/what-is-ip-address#:~:text=An%20Internet%20Protocol%20(IP)%20address.
+
+Gavrilova, Y. (2023). Pros and Cons of Python. [online] Pros and Cons of Python. Available at: https://serokell.io/blog/python-pros-and-cons.
+
+GeeksforGeeks. (2023). Functions and Features of a Web Browser. [online] Available at: https://www.geeksforgeeks.org/functions-and-features-of-a-web-browser/.
+
+Kanade, V. (2023). ChatGPT Characteristics, Uses, and Alternatives | Spiceworks. [online] Spiceworks. Available at: https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-chatgpt/.
+
+keyweo (n.d.). Semantic tag : definition, interests and structure. [online] Keyweo. Available at: https://www.keyweo.com/en/seo/glossary/semantic-tag/#:~:text=These%20semantic%20tags%20structure%20and [Accessed 23 Jun. 2024].
+
+Lee, B. (2023). Is ChatGPT plagiarism free? [online] www.hotcoursesabroad.com. Available at: https://www.hotcoursesabroad.com/study-abroad-info/once-you-arrive/is-chatgpt-plagiarism-free/#:~:text=If%20you%20define%20plagiarism%20as.
+
+Mind Tools Content Team (2022). Gibbs Reflective Cycle. [online] www.mindtools.com. Available at: https://www.mindtools.com/ano9qiu/gibbs-reflective-cycle.
+
+Motiso, D. (n.d.). What’s a Project Manager in Software and What Do They Do? https://www.indeed.com/career-advice/finding-a-job/project-manager-in-software.
+
+Networking. (n.d.). What is Transmission Control Protocol (TCP)? | Definition from TechTarget. [online] Available at: https://www.techtarget.com/searchnetworking/definition/TCP#:~:text=One%20of%20the%20main%20functions.
+
+Noction (2018). TCP (Transmission Control Protocol) Congestion Control. [online] Noction. Available at: https://www.noction.com/blog/tcp-transmission-control-protocol-congestion-control#:~:text=The%20main%20TCP%20features%20are.
+
+O’Flaherty, K. (n.d.). ChatGPT-4o Is Wildly Capable, But It Could Be A Privacy Nightmare. [online] Forbes. Available at: https://www.forbes.com/sites/kateoflahertyuk/2024/05/17/chatgpt-4o-is-wildly-capable-but-it-could-be-a-privacy-nightmare/.
+
+Ovcharenko, S. (2022). 10 Key Roles in Software Development Team & Their Responsibilities. [online] Alcor BPO. Available at: https://alcor-bpo.com/10-key-roles-in-a-software-development-team-who-is-responsible-for-what/.
+
+Perkins, M. (2023). Academic integrity considerations of AI Large Language Models in the post-pandemic era: ChatGPT and beyond. Journal of University Teaching and Learning Practice, 20(2).
+
+Ryan, E. (2023a). Ethical Implications of ChatGPT. [online] Scribbr. Available at: https://www.scribbr.com/ai-tools/chatgpt-ethics/.
+
+Ryan, E. (2023b). What Are the Legal Implications of ChatGPT? [online] Scribbr. Available at: https://www.scribbr.com/ai-tools/legal-implications-chatgpt/.
+
+S. Gillis, A. (n.d.). What is hard skills? - Definition from WhatIs.com. [online] SearchCIO. Available at: https://www.techtarget.com/searchcio/definition/hard-skills#:~:text=Hard%20skills%20are%20specific%20abilities.
+
+SEEK. (n.d.). How to become a Full Stack Developer - Salary, Qualifications, Skills & Reviews. [online] Available at: https://www.seek.com.au/career-advice/role/full-stack-developer.
+
+Shah, N. (2023). HTTP and HTTPS Protocol Features 🚀. [online] Medium. Available at: https://medium.com/@shahneel2409/http-and-https-protocol-features-a59db8dc4dc8.
+
+Testbook. (n.d.). Router: Understanding Uses, Features, Types, Benefits. Protocols. [online] Available at: https://testbook.com/articles/router#:~:text=Routers%20are%20vital%20networking%20devices.
+
+Toppr-guides. (2021). What is an Interpreter? Types, Differences, Advantages & Disadvantages. [online] Available at: https://www.toppr.com/guides/computer-science/computer-fundamentals/system-software/interpreter/#:~:text=An%20interpreter%20is%20a%20program.
+
+Varagouli, E. (2021). What Each Markup Language Is Used For. [online] Semrush Blog. Available at: https://www.semrush.com/blog/markup-language/.
+
+www.javatpoint.com. (n.d.). HTTP vs HTTPS - javatpoint. [online] Available at: https://www.javatpoint.com/http-vs-https.
+
+www.javatpoint.com. (n.d.). What is Routing? Definition and Types in Computer Network - javatpoint. [online] Available at: https://www.javatpoint.com/computer-network-routing#:~:text=The%20routing%20protocols%20use%20the [Accessed 23 Jun. 2024].
+
+www.linkedin.com. (n.d.). How does a web server communicate with an application server? [online] Available at: https://www.linkedin.com/pulse/how-does-web-server-communicate-application-pixipace-cy5vc/ [Accessed 23 Jun. 2024].
+
+www.linksys.com. (n.d.). Differences between IPv4 and IPv6. [online] Available at: https://www.linksys.com/support-article?articleNum=139604.
+
+www.naukri.com (2024). Code 360 by Coding Ninjas. [online] Naukri.com. Available at: https://www.naukri.com/code360/library/characteristics-of-compiler.
