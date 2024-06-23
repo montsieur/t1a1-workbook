@@ -161,7 +161,7 @@ This will allow reliable transferring of data communications such as emailing, t
 
 ####  Web browsers
 
-[Web Browsers][115] are applications to access websites on the World Wide Web (WWW) using [protocols such as HTTP][16]. Web browsers communicate by fetching data(request) from a web server and displays(renders) the web page in forms of media elements such as text, images and videos using CSS, Javascript, HTML and more to a user's display. It also provides integrated [developer tools][17], allowing users to inspect and debug a web page, therefore making it possible to prevent errors and optimize performance of a web browser and/or web page. Google Chrome is the most commonly used browser followed by browsers such as Mozilla Firefox, Opera, Safari and more.
+[Web Browsers][15] are applications to access websites on the World Wide Web (WWW) using [protocols such as HTTP][16]. Web browsers communicate by fetching data(request) from a web server and displays(renders) the web page in forms of media elements such as text, images and videos using CSS, Javascript, HTML and more to a user's display. It also provides integrated [developer tools][17], allowing users to inspect and debug a web page, therefore making it possible to prevent errors and optimize performance of a web browser and/or web page. Google Chrome is the most commonly used browser followed by browsers such as Mozilla Firefox, Opera, Safari and more.
 
 [15]: https://www.linkedin.com/pulse/how-does-web-server-communicate-application-pixipace-cy5vc/ "Web Browsers"
 
@@ -236,7 +236,7 @@ JavaScript is a widely used programming languaged primarly for it's versatility 
 - **Visibility** - as with it's vulnerabilities, this mostly is due to the visibility of code which is visible to everyone who has access to the webpage causing security risks and additionally, slows down the execution of the code itself.
 - **Slow Execution** - JavaScript’s Document Object Manipulation (DOM) model depending on the performance of a network latency which will result in delays when loading a webpage especially if the code is not optimized correctly.
 - **Dependancy** - disabling JavaScript or a flaw in the script for a webpage may cause the functionality of the webpage to cease or partially operate which will disrupt a user's experience.
-- **Search Engine Optimization Challenges** - SEO has difficulties understanding and indexing JavaScript's content, affecting it's visibility during an online search, potentially reducing their reach with their intended audiences.
+- **Search Engine Optimization** - SEO has difficulties understanding and indexing JavaScript's content, affecting it's visibility during an online search, potentially reducing their reach with their intended audiences.
 
 [22]: https://ellow.io/advantages-and-disadvantages-of-javascript/ "JavaScript"
 
@@ -297,56 +297,85 @@ Van Nguyen, Web Developer<br>
 www.portfolio.com<br>
 
 ## Q7
-#### Think back to a scenario or situation in your own software development projects or work. Explain how you would do things differently if you had a chance to go through that scenario again, using an appropriate reflective cycle or reflection technique.
+### Think back to a scenario or situation in your own software development projects or work. Explain how you would do things differently if you had a chance to go through that scenario again, using an appropriate reflective cycle or reflection technique.
 
 My only experience in a software engineering, was creating my first website portfolio at Coder Academy which was a very fun and educational project for someone like me who had no prior experience with web development whatsoever. What I would be reflecting specifically to this project would be the implementation and execution of visuals elements such as the use of images and semantic tags which is also a form of visual communication.
 
-##### Description
+#### Description
 
 When I was planning my website visually, I knew I wanted to implement minimilism to my website so it's not too busy and overwhelming to a viewer's perspective. With a layout in mind after creating a wireframe, I spent many hours experimenting between CSS Flexbox and CSS Grid adding in visual elements such as a header, navigation, footer, text and imagery ensuring they wrapped the way I wanted to. Although I was unsuccessful after many attempts, I had to rethink my layout to ensure I'm able to execute it within my level of skill. In the end, even though it was not the layout I initially had in mind, I was able to produce a website that I have planned and executed gaining many experiences along the way.
 
-##### Feeling
+#### Feeling
 
 I attempted this project with a lot of optimism and positivity feeling I could do well at the beginning. However, after many failures, I had started to feel stressed and frustrated for not being able to get it correctly no matter how hard I try. It will escalate further when I had received a feeling of success after the completion of one element of the website and it will later break when working on the next element not long after. There was a lot of perseverance involved and after taking multiple breaks, I had to collect myself and rethink how I would approach the project and still produce a website that I am still satisfied with.
 
-##### Evaluation
+#### Evaluation
 
 The positives I can take this project is having the ability to complete it. The moment I was able to go past the hurdle stopping me from progressing, it was a lot more smoother for the remaining of the project. Although I had taken a few shortcuts and because of that, the results wasn't exactly what I had initially planned and it was also not the correct way of executing which led to the project being evaluated lower than I would've hoped for such as using the wrong semantics for my navigation bar for my header. Additionally I was careless when submitting, seeing that some of my image elements were not visible from another's perspective but overall, I am still proud of myself for completing it.
 
-##### Conclusion
+#### Conclusion
 
 From the experiences I've taken from this, it helped me understand what it's like to work on projects like this as this will be the norm once I enter the industry myself. With more research and practice, I will be able to attempt and complete a project like this with more confidence and speed. Although, I believe I would have been able to generate better results if I had better time management and control to research more rather than panicking and resorting to shortcuts. I may have not gotten the full satisfaction or result I wanted, but after reflecting, I now believe that failure is a normal and necessary step to learn and succeed. 
 
-##### Action
+#### Action
 
 If I had the chance to work on a similar project or create a portfolio website again, I would ensure to use all the resources available to me whether that will be through the internet or reach out to those nearest to me such as my lecturers. I will resort to better planning and learning more knowledge to be more efficient and optimise my time and methods to implement features I was not able to do before. In addition to further improving by learning JavaScript to add more interactive elements to my website.
 
 ## Q8
-#### A large part of career growth as an information technology professional happens through networking and workshops, often found at online or in-person events or workshops. Create an action plan that identifies several relevant networking opportunities for you to participate in or attend, and add some information about what you expect to gain or grow through each item in the action plan.
+### A large part of career growth as an information technology professional happens through networking and workshops, often found at online or in-person events or workshops. Create an action plan that identifies several relevant networking opportunities for you to participate in or attend, and add some information about what you expect to gain or grow through each item in the action plan.
 
+#### Action Plan
 
+To attend more technology events and attempt domestic travel to attend events such as:
+- Australian Computer Society Networking events
+- Programmable (held once a year)
+- Look out for meetups posted on Coder Academy Discord channels
+- Using Linkedin to network with other developers and/or join events and groups relating to software engineering
+
+The benefits of attending these networking and technology events are similar across each plan. It will provide me exposure to the industry and have opportunities to network and meet professionals within the IT industry. Being able to gain the knowledge of not only about software engineering but the professionals attending these events, I will be able to have a clearer understanding when listening to their panel or lectures which will improve my chances of learning and successfully networking with the relevant professionals which could potentially lead to an opportunity to join a tech company.
+
+It is also important to network using social media platforms such as Linkedin to communicate through joining digital networks and applying for tech jobs on LinkedIn. At the same time, I will build on my portfolio and work on practicing my software engineering skills using websites such as LeetCode and other platforms and share it on my social media platforms.
+
+With this in mind, I plan to allocate my time to this action plan within the next 12 months whilst learning all I can within Coder Academy. This way, I will gain the knowledge relevant to the industry whilst networking at these events by the time I finish the bootcamp and enter the tech industry as a result.
 
 ## Q9
-#### Explain the uses of language-learning model technologies (such as ChatGPT) on written and technical works, such as reports and software projects.	
+### Explain the uses of language-learning model technologies (such as ChatGPT) on written and technical works, such as reports and software projects.	
 
-https://www.scribbr.com/ai-tools/chatgpt-ethics/
-https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-chatgpt/
+[ChatGPT][24] is a free Language-Learning Model technology using artificial intelligence(AI), used to respond to user's queries with comprehensive, human-like responses. It uses deep learning techniques to process text and generate text prompts based on the patterns it learns and has received within it's network whilst easily adapting to a user's feedback when interacting.
+
+In software development, it can be used a tool to help improve a developer's quality of life. The quality of life for a software developer is increased dramatically as it is a tool to help produce repetitive sources of code on their behalf, generate comprehensive documentation of code, simplifies the code, translate software interfaces, debugging extensive lines of codes quickly and have the ability to understand logic and structure. Overall, this improves efficiency, accuracy and performance. Because this is so accessible to the public, it is usable by user's who also have no prior knowledge looking to learn from this OpenAI learning model.
+
+Although ChatGPT does improve a developer's quality of life, it still requires a level of human comprehension by the developer to understand the prompts and results given by ChatGPT. As it is not perfect, there will still be a degree of errors and lack of explanation which may not benefit a developer.
+
+[24]: https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-chatgpt/ "ChatGPT"
+https://apiumhub.com/tech-blog-barcelona/chatgpt-for-developers/
 
 ## Q10
-#### Explain the legal and ethical impacts of the usage of language-learning model technologies (such as ChatGPT) in written and technical works, such as reports and software projects.	
+### Explain the legal and ethical impacts of the usage of language-learning model technologies (such as ChatGPT) in written and technical works, such as reports and software projects.	
 
+https://www.scribbr.com/ai-tools/chatgpt-ethics/
 https://www.scribbr.com/ai-tools/legal-implications-chatgpt/
 
 ## Q11
 ### Explain multiple skills from each of the categories below, and how they’re useful to a software development workplace.
 
->- soft skills
->- hard skills
+#### Soft Skills
+
+#### Hard skills
 
 https://www.codemotion.com/magazine/it-careers/trending-hard-skills-and-soft-skills-in-software-development/
 
 ## Q12
 ### Explain multiple roles or job positions that would be found in a medium-sized software development company.	
+
+#### Software Developer
+
+#### Project Manager
+
+#### UI/UX Designer
+
+#### Full-Stack Developer
+
 
 https://alcor-bpo.com/10-key-roles-in-a-software-development-team-who-is-responsible-for-what/
 
