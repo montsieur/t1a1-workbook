@@ -263,6 +263,40 @@ JavaScript is a widely used programming languaged primarly for it's versatility 
 >
 >Super Awesome Museum  
 
+**Reponse**:
+
+Dear Alex,
+
+I hope this message finds you well and thank you for expressing your interest in developing a website for the Super Awesome Museum (SAM). I'm excited about the opportunity to assist and work with you to bring your visions to life.
+
+From my understanding based on your request, the website will primarily be used to promote the museum effectively by offering essential information for visitors the location of the museum and highlighting SAM's diverse collection of exhibits. 
+
+To ensure we are on the right track, what will be the SAM's main attraction and/or theme you would like to promote and what is SAM's intended audience? This way, we can create a roadmap of ideas to effectively produce the website visually at a marketing stand point of view.
+
+For the technical aspects of the website, I can certainly handle the entire process of building a website. This is a brief outline of what we can provide based on the information given:
+
+1. **Home page**
+We can create a visually appealing homepage that showcases featured exhibits and artifacts prominently to increase user engagement and creates a good first impression.
+
+2. **Visitor Information Page** - 
+This will show clear navigation and information on how to reach SAM's address, including maps, directions and parking details if applicable. This will ensure visitors can easily plan their trip to visit SAM.
+
+3. **Contact and Interaction Page** - 
+This is the contact page showing the museum's contact details such as phone numbers and/or emails. This may include elements such as forms for visitors or potential visitors to send in their enquiries or feedback if you prefer this feature to be included.
+
+To ensure this website is accessible to everyone, we will ensure to create a responsive website design that will be compatiable with all devices whether it is a computer, laptop or mobile phone. In addition, we will create the website to implement the best search engine optimization practices to ensure user's are able to easily and visibily search SAM's website on browsers such as Google.
+
+I'd love to schedule a meeting to discuss your project in more detail and answer any questions you may have. Please let me know your availability, and we can set up a time that works for you.
+
+I look forward to your response and the opportunity to collaborate on this exciting project and thank you for considering me for your website project.
+
+Kind regards,
+
+Van Nguyen
+Web Developer
++61 400 000 000
+www.portfolio.com
+
 ## Q7
 #### Think back to a scenario or situation in your own software development projects or work. Explain how you would do things differently if you had a chance to go through that scenario again, using an appropriate reflective cycle or reflection technique.
 
