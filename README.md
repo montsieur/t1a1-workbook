@@ -91,7 +91,7 @@ An [**Internet Protocol (IP)**][5] refers to a unique identification number assi
 Below is an example of IP address generated for IPv4:
 >189.123.123.90. 
 
-- [**IPv6 (version 6)**][7] - is a protocol introduced in 1995 by Internet Engineering Task Force as the number of IPv4 addresses were exhausted. It is an improvement compared to IPv4 allowing complexity and efficiency through the enhancement of security by providing encryption, authenticity and reliability whilst being capable of having an infinite number of addresses. It is also provided better support for Mobile Devices, allowing faster and safer connecting between mobile devices than IPv4. IPv6 are 128-bits written as a group of 8 hexadecimal numbers separated by colon (:).
+- [**IPv6 (version 6)**][7] - is a protocol introduced in 1995 by Internet Engineering Task Force as the number of IPv4 addresses were exhausted. It is an improvement compared to IPv4 allowing complexity and efficiency through the enhancement of security by providing encryption, authenticity and reliability whilst being capable of having an infinite number of addresses. It is also provided better support for Mobile Devices, allowing faster and safer connecting between mobile devices than IPv4. IPv6 are 128-bits written as a group of 8 hexadecimal numbers separated by colon ( : ).
 
 Below is an example of IP address generated for IPv6:
 >fe80::d4a8:6435:d2d8:d9f3b11
@@ -177,7 +177,7 @@ This will allow reliable transferring of data communications such as emailing, t
 An [**interpreter**][18] is a program that directly executes the instructions in a high-level programming language without having to convert it to machine code. 
 
 The difference with interpreters are:
-- Executes a source of code directly one line at a time and will come to a halt if any error occurs with each statement, allowing an easier debugging process.
+- Executes a source of code directly one line at a time and will come to a halt if any error occurs with each statement, allowing an easier debugging process during compilation.
 - Analyzing a source of code is generally quicker resulting in less time to compile but may take longer to execute as it the program will require to translate one line at a time.
 - Programming languages or 'scripting languages' such as Python, Ruby and PHP uses interpreters. 
 
@@ -186,7 +186,7 @@ The difference with interpreters are:
 A [**compiler**][19] reads an entire source code in one go and generates machine code for later execution by a computer's processor by converting human-readable code into instructions that a computer can understand and execute.
 
 The difference with compilers are:
-- Executes a source of code at one time, therefore shows all errors altogether resulting in debugging processes more difficult.
+- Executes a source of code at one time, therefore shows all errors altogether resulting in debugging processes more difficult after compiling.
 - A compiler typically runs faster because it translates an entire program at once but slower in analyzing and compiling as it generates more memory to run an entire source code at one time.
 - Programming languages such as C, C++ and Java uses compilers.
 
@@ -197,13 +197,48 @@ The difference with compilers are:
 ## Q5
 ### Identify TWO commonly used programming languages and explain the benefits and drawbacks of each.	
 
+The two most commonly used programming languages are [**Python**][21] and [**JavaScript**][22].
+
 #### Python
 
-https://aws.amazon.com/what-is/python/
+Python is interpreted as a high-level programming language and one of the most popular forms of coding languages due to it's versatlity and user-friendly approach.
+
+##### Benefits
+
+- **Beginner Friendly** - the main reason for it's considered easy to learn is its simple syntax language, allowing users to easily read and understand which therefore allows developers to write and debug.
+- **Versatility** - it can be used in a variety of applications from data analysis to machine learning depending on the developer's interest.
+- **Community and Resources** - widely supported by the community that contributes to sharing many open-sourced libraries, forums, social media groups and frameworks. This is beneficial for those learning the language as they are able to gain knowledge and feedback from other developers.
+- **Flexibility** - it's flexibility comes from having the ability to be integrated with other programming languages such as C++ and Java depending on the specific tasks needed for a project.
+- **Prototype Friendly** - Being able to run and test a line(s) of code in real-time efficiently improve the debugging processes, improve or refine their source code.
+
+##### Drawbacks
+
+- **Slower than compiled languages** - because Python is an interpreted language, it will execute each line of code one at a time resulting in slower execution times especially when working on large databases or source codes.
+- **Less Secure** - because Python is dynamically typed, it relates to the speed of which a program can run rather then the amount of time to compile resulting in vulnerabilities making it an easy target for hackers.
+- **Poor multithreading** - with Global Interpreter Locks (GIL), this limits python to execute one thread at a time regardless of the amount of threads available and cannot be run in parallel, therefore affecting the performance.
+
+[21]: https://serokell.io/blog/python-pros-and-cons "Python"
 
 #### JavaScript
 
-https://www.computerscience.org/bootcamps/guides/javascript-uses/#:~:text=JavaScript%20is%20a%20programming%20language,user%2Dfriendly%20and%20interactive%20websites.
+JavaScript is a widely used programming languaged primarly for it's versatility in creating interactive elements within a website alongside with markup languages such as HTML and style languages such as CSS (Cascading Style Sheets).
+
+##### Benefits
+
+- **Speed and Efficiency** - has the ability to be executed on the client's side as the JavaScript code when a user accesses a website, it runs the code directly on their browser rather than relying on a server. This results in faster loading times and real-time dynamic responses.
+- **Regular Updates** - receives updates by organizations such as the ECMA International (European Computer Manufacturers Association) and introducing new features and improvements to performances, constantly evolving and developing match with technological advancements.
+- **Simplicity** - allows both front-end and back-end tasks to be executed within a single programming language. This allows the approach of a website to be unified by reducing the complexity and enhancing the efficiency when creating and maintaining a website.
+- **Vast Resources** - JavaScript also benefits with a vast of libraries and frameworks such as React, Angular and Vue.js by offering pre-built components and structures for web development without starting from scratch.
+
+##### Drawbacks
+
+- **Vulnerabilities** - because JavaScript is implemented through various different browsers, it is exploited by using these differences to inject malicious code therefore compromising the security of the system. Furthermore, these unsolicited changes can come undetected from unauthorized access of data to manipulation of data which warrents vigilance.
+- **Visibility** - as with it's vulnerabilities, this mostly is due to the visibility of code which is visible to everyone who has access to the webpage causing security risks and additionally, slows down the execution of the code itself.
+- **Slow Execution** - JavaScript’s Document Object Manipulation (DOM) model depending on the performance of a network latency which will result in delays when loading a webpage especially if the code is not optimized correctly.
+- **Dependancy** - disabling JavaScript or a flaw in the script for a webpage may cause the functionality of the webpage to cease or partially operate which will disrupt a user's experience.
+- **Search Engine Optimization Challenges** - SEO has difficulties understanding and indexing JavaScript's content, affecting it's visibility during an online search, potentially reducing their reach with their intended audiences.
+
+[22]: https://ellow.io/advantages-and-disadvantages-of-javascript/ "JavaScript"
 
 ## Q6
 ### A hypothetical client has sent you an email (shown in the Q6 Email section), asking for you to build them a website. Write an appropriate, professional email response that shows your understanding of the client’s needs for the website, as well as an understanding of appropriate technologies or tools needed to build the website yourself.	
@@ -241,12 +276,13 @@ https://www.computerscience.org/bootcamps/guides/javascript-uses/#:~:text=JavaSc
 ## Q9
 #### Explain the uses of language-learning model technologies (such as ChatGPT) on written and technical works, such as reports and software projects.	
 
-
+https://www.scribbr.com/ai-tools/chatgpt-ethics/
+https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-chatgpt/
 
 ## Q10
 #### Explain the legal and ethical impacts of the usage of language-learning model technologies (such as ChatGPT) in written and technical works, such as reports and software projects.	
 
-
+https://www.scribbr.com/ai-tools/legal-implications-chatgpt/
 
 ## Q11
 ### Explain multiple skills from each of the categories below, and how they’re useful to a software development workplace.
@@ -254,10 +290,12 @@ https://www.computerscience.org/bootcamps/guides/javascript-uses/#:~:text=JavaSc
 >- soft skills
 >- hard skills
 
+https://www.codemotion.com/magazine/it-careers/trending-hard-skills-and-soft-skills-in-software-development/
+
 ## Q12
 ### Explain multiple roles or job positions that would be found in a medium-sized software development company.	
 
-
+https://alcor-bpo.com/10-key-roles-in-a-software-development-team-who-is-responsible-for-what/
 
 ## References
 1. **Markup Languages**: https://www.semrush.com/blog/markup-language/
@@ -284,5 +322,5 @@ https://www.computerscience.org/bootcamps/guides/javascript-uses/#:~:text=JavaSc
 18. **Interpreters**: https://www.toppr.com/guides/computer-science/computer-fundamentals/system-software/interpreter/#:~:text=An%20interpreter%20is%20a%20program,is%20to%20use%20a%20compiler.
 19. **Compilers**: https://www.naukri.com/code360/library/characteristics-of-compiler
 20. **Interpreters vs Compilers**: https://builtin.com/software-engineering-perspectives/compiler-vs-interpreter#:~:text=A%20compiler%20translates%20code%20written,when%20the%20program%20is%20running.
-21. **Python**: https://aws.amazon.com/what-is/python/
-22. **JavaScript**: https://www.computerscience.org/bootcamps/guides/javascript-uses/#:~:text=JavaScript%20is%20a%20programming%20language,user%2Dfriendly%20and%20interactive%20websites.
+21. **Python**: https://serokell.io/blog/python-pros-and-cons
+22. **JavaScript**: https://ellow.io/advantages-and-disadvantages-of-javascript/
