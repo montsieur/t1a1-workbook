@@ -348,7 +348,6 @@ In software development, it can be used a tool to help improve a developer's qua
 Although ChatGPT does improve a developer's quality of life, it still requires a level of human comprehension by the developer to understand the prompts and results given by ChatGPT. As it is not perfect, there will still be a degree of errors and lack of explanation which may not benefit a developer.
 
 [24]: https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-chatgpt/ "ChatGPT"
-https://apiumhub.com/tech-blog-barcelona/chatgpt-for-developers/
 
 ## Q10
 ### Explain the legal and ethical impacts of the usage of language-learning model technologies (such as ChatGPT) in written and technical works, such as reports and software projects.	
@@ -369,16 +368,26 @@ Ethically, ChatGPT has issues alongside with the legal impacts that can result t
 - Plagarism
 - Copyright Infringements
 
-ChatGPT does not have the capabilities to provide citations for it's sources *(Ryan, 2023a)*. Since it is trained through various sources, multiple accounts of information may contain biases by a user resulting in false or inaccurate information to be outputted by the tool, ruining it's credibility. One main unethical practices with ChatGPT involves user's to generate content and information and passing it off as their own. Even though ChatGPT uses the methods of paraphrasing and modification to sources of information, it is not completely free of plagarism as it fails to use any citations in it's documentation *Perkins, 2023*. But there has been debates of using ChatGPT to elevate academic writing as long as a student or user are transparent with the use of tools such as ChatGPT *(Perkins, 2023)*.
+ChatGPT does not have the capabilities to provide citations for it's sources *(Ryan, 2023a)*. Since it is trained through various sources, multiple accounts of information may contain biases by a user resulting in false or inaccurate information to be outputted by the tool, ruining it's credibility. One main unethical practices with ChatGPT involves user's to generate content and information and passing it off as their own. Even though ChatGPT uses the methods of paraphrasing and modification to sources of information, it is not completely free of plagarism as it fails to use any citations in it's documentation *(Lee, 2023)*. But there has been debates of using ChatGPT to elevate academic writing as long as a student or user are transparent with the use of tools such as ChatGPT *(Perkins, 2023)*.
 
 ## Q11
 ### Explain multiple skills from each of the categories below, and how they’re useful to a software development workplace.
 
 #### Soft Skills
 
+Soft skills generally refers to a personal trait or ability of an individual that often cannot be taught with on-the-job training methods. Those with exceptional soft skills manage to negotiate higher salaries *(Eilers, 2023)* and find themselves landing positions within a tech company easier than someone with lesser soft skills. Examples of soft skills include:
+
+- **Communication** - being able to convey technical and complicated concepts to those without prior technical knowledge.
+- **Time Management** - keeping track and able to work multiple projects and managing tasks at one time while being able to work efficiently meeting expectations such as deadlines.
+- **Problem-solving skills** - providing innovative solutions, overcoming through any obstacle that prevents you from completing a project.
+
 #### Hard skills
 
-https://www.codemotion.com/magazine/it-careers/trending-hard-skills-and-soft-skills-in-software-development/
+Hard skills refers to skills learnt through education of hands-on experiences which is measurable through practical exercises *(S. Gillis, n.d.)*. Examples of hard skills within software development include:
+
+- **Programming Languages**: it is crucial to have knowledge in programming languages such as Python, JavaScript, C#, etc. This will allow developers to to create a body of source for a computer or device to execute depending on the project.
+- **Testing & Debugging** *(Codemotion, 2023)*: being able to speedily and accurately indentify and resolve cold is an integral process within the software development industry.
+- **Version control systems** *(Eilers, 2023)*: usage of a software tool that allows a developer to keep record of various different versions of a particular code and/or file that another developer is working on.
 
 ## Q12
 ### Explain multiple roles or job positions that would be found in a medium-sized software development company.	
@@ -395,30 +404,3 @@ https://www.codemotion.com/magazine/it-careers/trending-hard-skills-and-soft-ski
 https://alcor-bpo.com/10-key-roles-in-a-software-development-team-who-is-responsible-for-what/
 
 ## References
-1. **Markup Languages**: https://www.semrush.com/blog/markup-language/
-2. **Semantic Markup**: https://www.keyweo.com/en/seo/glossary/semantic-tag/#:~:text=These%20semantic%20tags%20structure%20and,and%20their%20positioning%20is%20improved.
-3. **Packets**: https://www.cloudflare.com/en-au/learning/network-layer/what-is-a-packet/
-4. **Packet Switching**: https://avinetworks.com/glossary/packet-switching/#:~:text=Packet%20switching%20is%20the%20transfer,packets%2C%20not%20in%20one%20piece.
-5. **Internet Protocol**: https://www.fortinet.com/resources/cyberglossary/what-is-ip-address#:~:text=An%20Internet%20Protocol%20(IP)%20address,use%20the%20internet%20to%20communicate.
-6. **IPv4**: https://www.linksys.com/support-article?articleNum=139604
-7. **IPv6**: https://www.geeksforgeeks.org/differences-between-ipv4-and-ipv6/
-8. **Routers**: https://testbook.com/articles/router#:~:text=Routers%20are%20vital%20networking%20devices,load%20balancing%2C%20and%20failover%20support.
-9. **Routing**: https://www.javatpoint.com/computer-network-routing#:~:text=The%20routing%20protocols%20use%20the,optimal%20path%20to%20the%20destination.
-10. **Domains**: https://blog.hubspot.com/website/what-is-a-domain
-11. **DNS**: https://www.alliedtelesis.com/us/en/documents/domain-name-system-feature-overview-and-configuration-guide#:~:text=DNS%20translates%20meaningful%20domain%20names,remember%20than%20an%20IP%20address
-12. **TCP**: 
-    - https://www.noction.com/blog/tcp-transmission-control-protocol-congestion-control#:~:text=The%20main%20TCP%20features%20are,for%20creating%20multiple%20virtual%20connections. 
-    - https://www.fortinet.com/resources/cyberglossary/tcp-ip
-
-    - https://www.techtarget.com/searchnetworking/definition/TCP#:~:text=One%20of%20the%20main%20functions,browsing%20wouldn't%20be%20possible. 
-13. **HTTP**: https://www.javatpoint.com/http-vs-https
-14. **HTTPS**: https://medium.com/@shahneel2409/http-and-https-protocol-features-a59db8dc4dc8
-15. **Web Browsers**: https://www.linkedin.com/pulse/how-does-web-server-communicate-application-pixipace-cy5vc/
-16. **Web Browser Protocols using HTTP**: https://www.geeksforgeeks.org/functions-and-features-of-a-web-browser/
-17. **Developer Tools**: https://developer.mozilla.org/en-US/docs/Glossary/Developer_Tools
-18. **Interpreters**: https://www.toppr.com/guides/computer-science/computer-fundamentals/system-software/interpreter/#:~:text=An%20interpreter%20is%20a%20program,is%20to%20use%20a%20compiler.
-19. **Compilers**: https://www.naukri.com/code360/library/characteristics-of-compiler
-20. **Interpreters vs Compilers**: https://builtin.com/software-engineering-perspectives/compiler-vs-interpreter#:~:text=A%20compiler%20translates%20code%20written,when%20the%20program%20is%20running.
-21. **Python**: https://serokell.io/blog/python-pros-and-cons
-22. **JavaScript**: https://ellow.io/advantages-and-disadvantages-of-javascript/
-23. **Gibbs Reflective Cycle**: https://www.mindtools.com/ano9qiu/gibbs-reflective-cycle
