@@ -151,32 +151,48 @@ This will allow reliable transferring of data communications such as emailing, t
 
 #### HTTP and HTTPS
 
-[Hypertext Transfer Protocol (HTTP)][14] is used as a form of communication on the internet by transferring unencrypted data between a web server to a web browser(client), and is operated above of the TCP layer. The main issue is due to the lack of encryption, data can be intercepted by a third-party.
+[Hypertext Transfer Protocol (HTTP)][13] is used as a form of communication on the internet by transferring unencrypted data between a web server to a web browser(client), and is operated above of the TCP layer. The main issue is due to the lack of encryption, data can be intercepted by a third-party.
 
-[Hypertext Transfer Protocol Secure (HTTPS)][15] however differs. HTTPS is an extension to HTTP that allows secure encryption of data to be sent using Secure Sockets Layer (SSL) and Transport Layer Security (TLS). This is more commonly used now offering data integrity and security to transfer sensitive data such as credit card or other sensitive personal information between the client and the server.
+[Hypertext Transfer Protocol Secure (HTTPS)][14] however differs. HTTPS is an extension to HTTP that allows secure encryption of data to be sent using Secure Sockets Layer (SSL) and Transport Layer Security (TLS). This is more commonly used now offering data integrity and security to transfer sensitive data such as credit card or other sensitive personal information between the client and the server.
 
-[14]: https://www.javatpoint.com/http-vs-https "HTTP"
+[13]: https://www.javatpoint.com/http-vs-https "HTTP"
 
-[15]: https://medium.com/@shahneel2409/http-and-https-protocol-features-a59db8dc4dc8 "HTTPS"
+[14]: https://medium.com/@shahneel2409/http-and-https-protocol-features-a59db8dc4dc8 "HTTPS"
 
 ####  Web browsers
 
-[Web Browsers][16] are applications to access websites on the World Wide Web (WWW) using [protocols such as HTTP][17]. Web browsers communicate by fetching data(request) from a web server and displays(renders) the web page in forms of media elements such as text, images and videos using CSS, Javascript, HTML and more to a user's display. It also provides integrated [developer tools][18], allowing users to inspect and debug a web page, therefore making it possible to prevent errors and optimize performance of a web browser and/or web page. Google Chrome is the most commonly used browser followed by browsers such as Mozilla Firefox, Opera, Safari and more.
+[Web Browsers][115] are applications to access websites on the World Wide Web (WWW) using [protocols such as HTTP][16]. Web browsers communicate by fetching data(request) from a web server and displays(renders) the web page in forms of media elements such as text, images and videos using CSS, Javascript, HTML and more to a user's display. It also provides integrated [developer tools][17], allowing users to inspect and debug a web page, therefore making it possible to prevent errors and optimize performance of a web browser and/or web page. Google Chrome is the most commonly used browser followed by browsers such as Mozilla Firefox, Opera, Safari and more.
 
-[16]: https://www.linkedin.com/pulse/how-does-web-server-communicate-application-pixipace-cy5vc/ "Web Browsers"
+[15]: https://www.linkedin.com/pulse/how-does-web-server-communicate-application-pixipace-cy5vc/ "Web Browsers"
 
-[17]: https://www.geeksforgeeks.org/functions-and-features-of-a-web-browser/ "Protocols using HTTP Web Browsers"
+[16]: https://www.geeksforgeeks.org/functions-and-features-of-a-web-browser/ "Protocols using HTTP Web Browsers"
 
-[18]: https://developer.mozilla.org/en-US/docs/Glossary/Developer_Tools "Developer Tools"
+[17]: https://developer.mozilla.org/en-US/docs/Glossary/Developer_Tools "Developer Tools"
 
 ## Q4
-### Describe the features of interpreters and compilers and how they are different.	    
+### Describe the features of interpreters and compilers and how they are different.
 
-https://seprotec.com/blog/10-important-qualities-an-interpreter-must-possess/
+#### Interpreters
 
-https://www.naukri.com/code360/library/characteristics-of-compiler
+An [**interpreter**][18] is a program that directly executes the instructions in a high-level programming language without having to convert it to machine code. 
 
-https://builtin.com/software-engineering-perspectives/compiler-vs-interpreter#:~:text=A%20compiler%20translates%20code%20written,when%20the%20program%20is%20running.
+The difference with interpreters are:
+- Executes a source of code directly one line at a time and will come to a halt if any error occurs with each statement, allowing an easier debugging process.
+- Analyzing a source of code is generally quicker resulting in less time to compile but may take longer to execute as it the program will require to translate one line at a time.
+- Programming languages or 'scripting languages' such as Python, Ruby and PHP uses interpreters. 
+
+#### Compilers
+
+A [**compiler**][19] reads an entire source code in one go and generates machine code for later execution by a computer's processor by converting human-readable code into instructions that a computer can understand and execute.
+
+The difference with compilers are:
+- Executes a source of code at one time, therefore shows all errors altogether resulting in debugging processes more difficult.
+- A compiler typically runs faster because it translates an entire program at once but slower in analyzing and compiling as it generates more memory to run an entire source code at one time.
+- Programming languages such as C, C++ and Java uses compilers.
+
+[18]: https://www.toppr.com/guides/computer-science/computer-fundamentals/system-software/interpreter/#:~:text=An%20interpreter%20is%20a%20program,is%20to%20use%20a%20compiler. "Interpreters"
+
+[19]: https://www.naukri.com/code360/library/characteristics-of-compiler "Compilers"
 
 ## Q5
 ### Identify TWO commonly used programming languages and explain the benefits and drawbacks of each.	
@@ -265,7 +281,7 @@ https://www.computerscience.org/bootcamps/guides/javascript-uses/#:~:text=JavaSc
 15. **Web Browsers**: https://www.linkedin.com/pulse/how-does-web-server-communicate-application-pixipace-cy5vc/
 16. **Web Browser Protocols using HTTP**: https://www.geeksforgeeks.org/functions-and-features-of-a-web-browser/
 17. **Developer Tools**: https://developer.mozilla.org/en-US/docs/Glossary/Developer_Tools
-18. **Interpreters**: https://seprotec.com/blog/10-important-qualities-an-interpreter-must-possess/
+18. **Interpreters**: https://www.toppr.com/guides/computer-science/computer-fundamentals/system-software/interpreter/#:~:text=An%20interpreter%20is%20a%20program,is%20to%20use%20a%20compiler.
 19. **Compilers**: https://www.naukri.com/code360/library/characteristics-of-compiler
 20. **Interpreters vs Compilers**: https://builtin.com/software-engineering-perspectives/compiler-vs-interpreter#:~:text=A%20compiler%20translates%20code%20written,when%20the%20program%20is%20running.
 21. **Python**: https://aws.amazon.com/what-is/python/
